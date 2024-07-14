@@ -168,3 +168,18 @@ button {
     height: auto; 
 
 }
+
+footer {
+    background-color: #1f2937;
+    height: auto;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-text {
+    font-size: 18px;
+    color: #e5e7eb;
+    padding: 75px 0;
+}
